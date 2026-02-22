@@ -2,45 +2,92 @@
 
 🎓 MCA (AI/ML) Postgraduate  
 💻 Python Full Stack Developer  
+📍 India  
 
-I am a dedicated Full Stack Developer with hands-on experience in building secure, scalable, and real-world web applications using **Django, Django REST Framework, and React.js**.  
+---
 
-I have developed projects featuring **JWT authentication, role-based access control, RESTful APIs, and MySQL/PostgreSQL integration**.  
+## 🚀 About Me
 
-I am passionate about backend systems, clean architecture, and continuously improving my technical skills to build efficient and user-focused solutions.
+I am a dedicated Python Full Stack Developer with hands-on experience in building secure, scalable, and real-world web applications using Django, Django REST Framework, and React.js.
+
+I have developed full-stack applications with JWT authentication, role-based access control, RESTful APIs, and MySQL database integration. I enjoy solving real-world problems through clean architecture and efficient backend systems.
+
+I am continuously learning and improving my technical skills to build impactful digital solutions.
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming Languages
+Python, JavaScript, C, C++
+
+### 🚀 Backend Development
+Django  
+Django REST Framework  
+REST APIs  
+JWT Authentication  
+Role-Based Access Control  
+
+### 🎨 Frontend Development
+React.js  
+HTML5  
+CSS3  
+Tailwind CSS  
+Bootstrap  
+
+### 🗄 Database
+MySQL  
+PostgreSQL  
+
+### 🛠 Tools & Platforms
+Git  
+GitHub  
+Postman  
+Jira  
+Figma  
+
+---
+
+## 📌 Projects
+
+### 🏥 Healthcare Appointment Platform (Practo-like)
+- Built a secure role-based healthcare web application.
+- Implemented JWT-based authentication.
+- Developed REST APIs using Django REST Framework.
+- Integrated MySQL database.
+- Designed full frontend using React.js and Tailwind CSS.
+
+### ⚡ Electrical Home Services Platform
+- Developed an online service booking platform.
+- Implemented user authentication & protected routes.
+- Built responsive UI with React.js.
+- Backend API integration with Django.
+
+### 💰 Daily Expense Tracker
+- Full-stack expense management system.
+- CRUD operations with Django backend.
+- React frontend integration.
+
+---
+
+## 🎓 Education
+
+Master of Computer Applications (AI/ML)  
+LNCT University  
+
+Bachelor of Computer Applications  
+
+---
+
+## 📜 Certification
+
+Python Full Stack Development – Cybrom Technology Pvt Ltd  
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Gokhe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tushar-gokhe-a30154275)
-
----
-
-## 💻 Tech Stack
-
-### 🚀 Backend
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens)
-
-### 🎨 Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-### 🗄️ Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### 🛠 Tools
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0A0FFF?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -54,4 +101,4 @@ I am passionate about backend systems, clean architecture, and continuously impr
 
 ---
 
-⭐ Always learning. Always building.
+⭐ Passionate about Backend Development | Clean Code | Continuous Learning

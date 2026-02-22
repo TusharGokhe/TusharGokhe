@@ -1,104 +1,18 @@
-# 👋 Hi, I'm Tushar Gokhe  
+# 💫 About Me:
+👋 Hi, I'm Tushar Gokhe — MCA (AI/ML) Postgraduate and Python Full Stack Developer.<br><br>I specialize in building secure and scalable web applications using Django, Django REST Framework, and React.js. With hands-on experience in REST APIs, JWT authentication, role-based access control, and MySQL integration, I focus on writing clean, efficient code and developing real-world solutions.<br><br>Passionate about backend systems and continuous learning.
 
-🎓 MCA (AI/ML) Postgraduate  
-💻 Python Full Stack Developer  
-📍 India  
 
----
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/tushar-gokhe-a30154275) 
 
-## 🚀 About Me
-
-I am a dedicated Python Full Stack Developer with hands-on experience in building secure, scalable, and real-world web applications using Django, Django REST Framework, and React.js.
-
-I have developed full-stack applications with JWT authentication, role-based access control, RESTful APIs, and MySQL database integration. I enjoy solving real-world problems through clean architecture and efficient backend systems.
-
-I am continuously learning and improving my technical skills to build impactful digital solutions.
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=TusharGokhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=TusharGokhe&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=TusharGokhe&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=TusharGokhe&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Technical Skills
-
-### 💻 Programming Languages
-Python, JavaScript, C, C++
-
-### 🚀 Backend Development
-Django  
-Django REST Framework  
-REST APIs  
-JWT Authentication  
-Role-Based Access Control  
-
-### 🎨 Frontend Development
-React.js  
-HTML5  
-CSS3  
-Tailwind CSS  
-Bootstrap  
-
-### 🗄 Database
-MySQL  
-PostgreSQL  
-
-### 🛠 Tools & Platforms
-Git  
-GitHub  
-Postman  
-Jira  
-Figma  
-
----
-
-## 📌 Projects
-
-### 🏥 Healthcare Appointment Platform (Practo-like)
-- Built a secure role-based healthcare web application.
-- Implemented JWT-based authentication.
-- Developed REST APIs using Django REST Framework.
-- Integrated MySQL database.
-- Designed full frontend using React.js and Tailwind CSS.
-
-### ⚡ Electrical Home Services Platform
-- Developed an online service booking platform.
-- Implemented user authentication & protected routes.
-- Built responsive UI with React.js.
-- Backend API integration with Django.
-
-### 💰 Daily Expense Tracker
-- Full-stack expense management system.
-- CRUD operations with Django backend.
-- React frontend integration.
-
----
-
-## 🎓 Education
-
-Master of Computer Applications (AI/ML)  
-LNCT University  
-
-Bachelor of Computer Applications  
-
----
-
-## 📜 Certification
-
-Python Full Stack Development – Cybrom Technology Pvt Ltd  
-
----
-
-## 🌐 Connect With Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tushar%20Gokhe-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/tushar-gokhe-a30154275)
-
----
-
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=tushargokhe&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=tushargokhe&theme=dark&hide_border=false)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tushargokhe&theme=dark&hide_border=false&layout=compact)
-
----
-
-⭐ Passionate about Backend Development | Clean Code | Continuous Learning
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
